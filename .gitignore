@@ -1,3 +1,6 @@
 .idea
 .idea/*.xml
 .idea/*.iml
+/vendor/
+/php.xml
+.idea/php.xml
